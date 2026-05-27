@@ -82,4 +82,3 @@ for char, code in huffman_codes.items():
 
 ## Result:
 Thus,the huffman coding was implemented to compress the data using python programming.
-](https://github.com/Supraja0510/OPENING--AND-CLOSING)
