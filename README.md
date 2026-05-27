@@ -1,4 +1,4 @@
-[# Implementation-Of-Huffman-Coding
+# Implementation-Of-Huffman-Coding
 
 **Developed by :**  Supraja B
 
